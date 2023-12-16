@@ -5,4 +5,4 @@ HTML basketball game inspired from the mobile game "dunk shot." Fully written on
 
 
 > :warning: **Supports only Chrome Browser**: Safari, Internet Explorer not supported\
-> :warning: **Endless Bugs**: collision algorithm failure, shoot event untriggered with certain shotting angles, overlapping obstacles instatiation, etc. Nevertheless, bug fixes are delayed indefinitely.
+> :warning: **Endless Bugs**: collision algorithm failure, shoot event untriggered with certain shooting angles, overlapping obstacles instantiation, etc. Nevertheless, bug fixes are delayed indefinitely.
